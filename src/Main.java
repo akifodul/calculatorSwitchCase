@@ -5,7 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         System.out.println("First number: ");
         int num1 = input.nextInt();
-        System.out.println("Secound number: ");
+        System.out.println("Second number: ");
         int num2 = input.nextInt();
 
         System.out.println("1-Add\n2-Sub\n3-Mul\n4-Div");
