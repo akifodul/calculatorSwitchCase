@@ -22,6 +22,5 @@ public class Main {
             case 4: System.out.println("Result: " + (num1 / num2));
                 break;
         }
-
     }
 }
